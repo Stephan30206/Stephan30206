@@ -1,15 +1,18 @@
-<p align="center">
-  <img src="src/hero.svg" alt="Stephan - Full-Stack & AI Developer" width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LINKEDIN-1a1512?style=for-the-badge&logo=linkedin&logoColor=c4552d" alt="LinkedIn"></a>
-  <a href="mailto:ton@email.com"><img src="https://img.shields.io/badge/EMAIL-1a1512?style=for-the-badge&logo=gmail&logoColor=c4552d" alt="Email"></a>
-  <a href="https://TON-PORTFOLIO.com"><img src="https://img.shields.io/badge/PORTFOLIO-c4552d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-</p>
+<img src="src/hero.svg" alt="Stephan. Full-Stack and AI developer building useful systems end to end. Open to work, remote, based in Madagascar (UTC+3)." width="100%">
+<img src="src/heartbeat.svg" alt="System online. 200 OK." width="100%">
+<br><br>
+<a href="https://TON-PORTFOLIO.com" target="_blank" rel="noopener noreferrer"><img src="src/btn-portfolio.svg" alt="Portfolio" width="31%"></a>
+<a href="https://www.linkedin.com/in/TON-PROFIL" target="_blank" rel="noopener noreferrer"><img src="src/btn-linkedin.svg" alt="LinkedIn" width="31%"></a>
+<a href="mailto:ton@email.com" target="_blank" rel="noopener noreferrer"><img src="src/btn-email.svg" alt="Email" width="31%"></a>
+<br><br>
 
-<p align="center"><img src="src/about.svg" alt="About" width="100%"></p>
-
-<p align="center"><img src="src/stack-map.svg" alt="Stack" width="100%"></p>
-
-<p align="center"><img src="src/principles.svg" alt="Principles" width="100%"></p>
+<img src="src/about.svg" alt="About: I build full-stack and AI software, from data and APIs to the interface. Role: software developer. Focus: AI, web, data. Status: open to work. Location: Madagascar." width="100%">
+<br><br>
+<img src="src/stack-map.svg" alt="Stack map. AI: CNN, deep learning, OpenCV, Flask. Languages: Java, Python, JavaScript, SQL. Web: React, React Native, Expo, HTML/CSS, REST APIs. Data: PostgreSQL, Supabase, JDBC. Ops: Git, GitHub, WSL2, Linux." width="100%">
+<br><br>
+<img src="src/principles.svg" alt="How I work: learn by building, write it down, keep it simple, finish things." width="100%">
+<br><br>
+<img src="https://ghchart.rshah.org/c4532f/Stephan30206" alt="Contribution graph" width="100%">
+</div>

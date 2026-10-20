@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="88" viewBox="0 0 400 88">
+<style>@keyframes ar{0%,100%{transform:translateX(0)}50%{transform:translateX(6px)}}.ar{animation:ar 1.6s ease-in-out infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x="1" y="1" width="398" height="86" fill="#111113" stroke="#7a3a22" stroke-width="2"/>
+<rect x="18" y="18" width="52" height="52" fill="#2a1a12" stroke="#c4532f" stroke-opacity=".6"/>
+<g stroke="#e07b3c" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="30" y="34" width="28" height="20" rx="3"/><path d="M31 37 L44 47 L57 37"/></g>
+<text x="100" y="51" font-family="monospace" font-size="18" fill="#f1eee8" letter-spacing="6">EMAIL</text>
+<path class="ar" d="M334 44 H364 M354 33 L365 44 L354 55" stroke="#f1eee8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
