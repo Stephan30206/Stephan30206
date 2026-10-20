@@ -3,8 +3,8 @@
 <img src="src/hero.svg" alt="Stephan. Full-Stack and AI developer building useful systems end to end. Open to work, remote, based in Madagascar (UTC+3)." width="100%">
 <img src="src/heartbeat.svg" alt="System online. 200 OK." width="100%">
 <br><br>
-<a href="https://TON-PORTFOLIO.com" target="_blank" rel="noopener noreferrer"><img src="src/btn-portfolio.svg" alt="Portfolio" width="31%"></a>
-<a href="https://www.linkedin.com/in/TON-PROFIL" target="_blank" rel="noopener noreferrer"><img src="src/btn-linkedin.svg" alt="LinkedIn" width="31%"></a>
+<a href="https://stephan-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="src/btn-portfolio.svg" alt="Portfolio" width="31%"></a>
+<a href="https://www.linkedin.com/in/stephan-andriamitantsoa-585455441/?isSelfProfile=true" target="_blank" rel="noopener noreferrer"><img src="src/btn-linkedin.svg" alt="LinkedIn" width="31%"></a>
 <a href="mailto:ton@email.com" target="_blank" rel="noopener noreferrer"><img src="src/btn-email.svg" alt="Email" width="31%"></a>
 <br><br>
 
