@@ -5,7 +5,7 @@
 <br><br>
 <a href="https://stephan-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="src/btn-portfolio.svg" alt="Portfolio" width="31%"></a>
 <a href="https://www.linkedin.com/in/stephan-andriamitantsoa-585455441/?isSelfProfile=true" target="_blank" rel="noopener noreferrer"><img src="src/btn-linkedin.svg" alt="LinkedIn" width="31%"></a>
-<a href="mailto:ton@email.com" target="_blank" rel="noopener noreferrer"><img src="src/btn-email.svg" alt="Email" width="31%"></a>
+<a href="stephanandria17@gmail.com" target="_blank" rel="noopener noreferrer"><img src="src/btn-email.svg" alt="Email" width="31%"></a>
 <br><br>
 
 <img src="src/about.svg" alt="About: I build full-stack and AI software, from data and APIs to the interface. Role: software developer. Focus: AI, web, data. Status: open to work. Location: Madagascar." width="100%">
