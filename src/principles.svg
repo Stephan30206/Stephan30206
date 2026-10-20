@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<rect width="1200" height="300" fill="#14100e"/>
+<rect x="20" y="10" width="1160" height="280" fill="#1a1512" stroke="#2e2520"/>
+<g stroke="#c4552d" stroke-width="3" fill="none"><path d="M20 40 V10 H50"/><path d="M1180 40 V10 H1150"/><path d="M20 260 V290 H50"/><path d="M1180 260 V290 H1150"/></g>
+<text x="50" y="40" font-family="monospace" font-size="14" fill="#f3ece4"><tspan fill="#c4552d">■ </tspan>principles.md</text>
+<text x="1150" y="40" font-family="monospace" font-size="11" fill="#8a7d74" letter-spacing="3" text-anchor="end">PRINCIPLES</text>
+<line x1="20" y1="58" x2="1180" y2="58" stroke="#2e2520"/>
+<g stroke="#2e2520"><line x1="310" y1="58" x2="310" y2="290"/><line x1="600" y1="58" x2="600" y2="290"/><line x1="890" y1="58" x2="890" y2="290"/></g>
+<rect x="20" y="58" width="70" height="3" fill="#c4552d"/>
+<text x="50" y="135" font-family="monospace" font-size="56" fill="#6b3a28">01</text>
+<text x="50" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#f3ece4">Learn by building</text>
+<text x="50" y="225" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9a8c82">Every concept becomes</text>
+<text x="50" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9a8c82">a working project.</text>
+<rect x="310" y="58" width="70" height="3" fill="#c4552d"/>
+<text x="340" y="135" font-family="monospace" font-size="56" fill="#6b3a28">02</text>
+<text x="340" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#f3ece4">Write it down</text>
+<text x="340" y="225" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9a8c82">Clear docs so the next</text>
+<text x="340" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9a8c82">person can pick it up.</text>
+<rect x="600" y="58" width="70" height="3" fill="#c4552d"/>
+<text x="630" y="135" font-family="monospace" font-size="56" fill="#6b3a28">03</text>
+<text x="630" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#f3ece4">Keep it simple</text>
+<text x="630" y="225" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9a8c82">Proven tools and</text>
+<text x="630" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9a8c82">readable code.</text>
+<rect x="890" y="58" width="70" height="3" fill="#c4552d"/>
+<text x="920" y="135" font-family="monospace" font-size="56" fill="#6b3a28">04</text>
+<text x="920" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" fill="#f3ece4">Finish things</text>
+<text x="920" y="225" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9a8c82">Ship it, test it,</text>
+<text x="920" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9a8c82">then improve it.</text>
+</svg>
